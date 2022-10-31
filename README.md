@@ -1,2 +1,2 @@
 # brahmastra
-game based on movie brahmastra
+game based on movie "brahmastra"
